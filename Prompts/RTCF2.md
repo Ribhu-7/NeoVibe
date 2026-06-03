@@ -23,3 +23,5 @@ Target: Provide the full, clean Swift code organized into separate architectural
 2.The Use Case/Interactor layer.
 
 3.The ViewModel (exposing @Published properties or custom Input/Output structs for the View to bind to). Make it fully complete and copy-pasteable.
+
+---
